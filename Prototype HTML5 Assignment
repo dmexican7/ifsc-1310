@@ -2,11 +2,11 @@
 <html lang="en">
 
 <head>
-  <title>Web Tech Demo HTML Document | Thomas Wallace</title>
+  <title>The Unity of the Hispanic Community | For Our Future </title>
   <meta charset="utf-8" /><!-- Defines the Character set -->
   <meta name="viewport" content="width=device-width, initial-scale=1" /> <!-- Responsive Web Design-->
-  <meta name="description" content="This should be a keyword rich short narrative of the site's purpose" />
-  <meta name="author" content="Thomas Wallace" />
+  <meta name="description" content="This project will focus on uniting the Hispanic community to focus on the future of our children and make a path for the future generation to strive towards no matter the challenges that we may face." />
+  <meta name="author" content="Ivan Vasquez" />
 </head>
 
 <body>
@@ -24,8 +24,8 @@
       <hr />
 
       <address>
-        Thomas Wallace <br />
-        555 Street Dr.<br />
+        Ivan Vasquez <br />
+        UALR Street Dr.<br />
         Little Rock, AR, 72207
       </address>
 
